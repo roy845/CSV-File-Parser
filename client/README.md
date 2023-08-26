@@ -11,6 +11,7 @@ This project provides a user-friendly interface for users to upload CSV files, v
 - <strong>File Validation:</strong> Validates that the uploaded file is in the CSV format.
 
 - Valid file
+
   <a href="https://ibb.co/gwrWCdm"><img src="https://i.ibb.co/Bjf6RGc/Validation-screen.png" alt="Validation-screen" border="0"></a>
 
 - Not valid file
@@ -46,7 +47,7 @@ This project provides a user-friendly interface for users to upload CSV files, v
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/csv-file-parser.git
+git clone https://github.com/roy845/CSV-File-Parser.git
 
 2. Navigate to the client directory:
 
